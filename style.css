@@ -1,4 +1,4 @@
-/*
+/*!
  Theme Name:   Algen
  Description:  Algen Energias Theme
  Author:       Mario HD
@@ -8,4 +8,5 @@
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  algen
-*/
+*/body.woocommerce-active .site-header{padding-top:.5em;padding-bottom:.5em}body.woocommerce-active .site-header .site-branding{width:initial;margin-bottom:.5em;margin-top:.5em}body.woocommerce-active .site-header .site-search{width:50%;margin-bottom:.5em}body.woocommerce-active .site-header .site-search .widget_product_search input[type=search]{padding-top:1em;padding-bottom:1em}body.woocommerce-active .site-header .site-search .widget_product_search form:before{top:1.2em}body.woocommerce-active .site-header .storefront-primary-navigation li a{padding-top:.5em;padding-bottom:.5em}@media (max-width:568px){body.woocommerce-active .site-header .site-branding{max-width:50%}body.woocommerce-active .site-header .site-branding .beta.site-title{line-height:.6em}body.woocommerce-active .site-header .site-branding .beta.site-title a{font-size:.6em}}body.woocommerce-active.page-template-template-homepage .entry-header{display:none}body.woocommerce-active.page-template-template-homepage .site-main{padding-top:0}body.woocommerce-active.page-template-template-homepage .col-full{max-width:none}body.woocommerce-active.page-template-template-homepage .site-content .col-full{padding:0;margin-left:0;margin-right:0}body.woocommerce-active.page-template-template-homepage .site-content .col-full .storefront-product-section{max-width:67.141em;margin-left:auto;margin-right:auto;padding:0 2.617924em}
+/*# sourceMappingURL=../maps/style.css.map */
